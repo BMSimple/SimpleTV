@@ -1,5 +1,5 @@
 <h3> SimpleTV Addons </h3>
-
+<h4>
 <p>This is a repository that contains publications of addon releases for the simpletv IPTV player for the windows operating system.
 </br>Program website: http://iptv.gen12.net/dokuwiki/doku.php?id=mantis:SimpleTV:start
 </p>
@@ -7,6 +7,7 @@
 Suggestions and errors are considered on the bug tracker:</br>
 http://iptv.gen12.net/bugtracker/view_all_bug_page.php
 </p>
+</h4>
 
 <hr>
 <p align="center">
