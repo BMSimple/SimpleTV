@@ -1,13 +1,18 @@
-# SimpleTV Addons
-This is a repository that contains publications of addon releases for the simpletv IPTV player for the windows operating system.
-Program website:
-http://iptv.gen12.net/dokuwiki/doku.php?id=mantis:SimpleTV:start
+<h3> SimpleTV Addons </h3>
 
-At the moment, 2 addons are being published here:
-TVSources and Weather.
-Suggestions and errors are considered on the bug tracker:
+<p>This is a repository that contains publications of addon releases for the simpletv IPTV player for the windows operating system.
+</br>Program website: http://iptv.gen12.net/dokuwiki/doku.php?id=mantis:SimpleTV:start
+</p>
+<p>At the moment, 2 addons are being published here: <b>TVSources</b> and <b>Weather</b>.</br>
+Suggestions and errors are considered on the bug tracker:</br>
 http://iptv.gen12.net/bugtracker/view_all_bug_page.php
+</p>
 
-You can support the developer with a donation by transferring to:
-QIWI wallet: https://w.qiwi.com/n/QWE1990
-YooMoney wallet https://yoomoney.ru/to/410012004830397
+<hr>
+<p align="right">
+<i><small >You can support the developer with a donation by transferring to:</br>
+QIWI wallet: https://w.qiwi.com/n/QWE1990 </br>
+YooMoney wallet https://yoomoney.ru/to/410012004830397</br>
+</small></i>
+</p>
+
