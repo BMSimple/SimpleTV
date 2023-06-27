@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=BMSimple&label=PROFILE+VIEWS)
 <h3> SimpleTV Addons </h3>
 <h4>
 <p>This is a repository that contains publications of addon releases for the simpletv IPTV player for the windows operating system.
@@ -17,7 +18,7 @@ YooMoney wallet https://yoomoney.ru/to/410012004830397</br>
 </small></i>
 </p>
 <p>
-<img  align="left" src="https://github.com/BMSimple/SimpleTV/blob/main/img/QR_QIWI.png" height="120"/>
-<img align="right" src="https://github.com/BMSimple/SimpleTV/blob/main/img/QR_YOUMONEY.png" height="120"/>
+<img  align="left" src="https://github.com/BMSimple/SimpleTV/blob/main/img/QR_QIWI.png" height="100"/>
+<img align="right" src="https://github.com/BMSimple/SimpleTV/blob/main/img/QR_YOUMONEY.png" height="100"/>
 </p>
 
