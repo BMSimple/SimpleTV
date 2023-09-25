@@ -13,12 +13,10 @@ http://iptv.gen12.net/bugtracker/view_all_bug_page.php
 <hr>
 <p align="center">
 <i><small >You can support the developer with a donation by transferring to:</br>
-QIWI wallet: https://w.qiwi.com/n/QWE1990 </br>
 YooMoney wallet https://yoomoney.ru/to/410012004830397</br>
 </small></i>
 </p>
 <p>
-<img  align="left" src="https://github.com/BMSimple/SimpleTV/blob/main/img/QR_QIWI.png" height="100"/>
 <img align="right" src="https://github.com/BMSimple/SimpleTV/blob/main/img/QR_YOUMONEY.png" height="100"/>
 </p>
 
