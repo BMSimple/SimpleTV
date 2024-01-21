@@ -12,7 +12,7 @@ Suggestions and errors are considered on <a href="http://sergeyvs.rf.gd/bugtrack
 Scrapers for addon can be taken from <a href="https://github.com/Nexterr-origin/simpleTV-Scripts">★Nexterr repository★</a>
 </p>
 <hr>
-<div align="center">
+<div align="center"> 
 <i><small>You can support the developer with a donation by transferring to:</br>
 YooMoney wallet https://yoomoney.ru/to/410012004830397</br>
 </small></i>
