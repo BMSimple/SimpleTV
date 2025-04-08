@@ -2,19 +2,20 @@
 <h3> SimpleTV Addons </h3>
 <h4>
 <p>This is a repository that contains publications of addon releases for the SimpleTV IPTV player for the Windows OS.
-</br>Visit <a href="http://sergeyvs012.rf.gd/" >SimpleTV website</a>.
+</br>Visit <a href="http://sergeyvs012.rf.gd/">SimpleTV website</a>.
 </p>
 <p>At the moment, 2 addons are being published here: <img src="./img/tvs_logo.png" height="16"/><b>TVSources</b> and <img src="./img/weather_logo.png" height="16"/><b>Weather</b>.</br>
-Suggestions and errors are considered on <a href="http://sergeyvs012.rf.gd/bugtracker/view_all_bug_page.php"> the bugtracker.</a>
+Suggestions and errors are considered on 👉<a href="http://sergeyvs012.rf.gd/bugtracker/view_all_bug_page.php"> the bugtracker.</a>
 </p>
 </h4>
 <p>
-Scrapers for addon can be taken from <a href="https://github.com/Nexterr-origin/simpleTV-Scripts">★Nexterr repository★</a>
+Scrapers for addon can be taken from 👉<a href="https://github.com/Nexterr-origin/simpleTV-Scripts">Nexterr repository</a>
 </p>
 <hr>
 <div align="center"> 
 <i><small>You can support the developer with a donation by transferring to:</br>
-YooMoney wallet https://yoomoney.ru/to/410012004830397</br>
+🤝DonationAlerts:  https://www.donationalerts.com/r/bmsimple</br>
+🤝YooMoney wallet: https://yoomoney.ru/to/410012004830397</br>
 </small></i>
 <p>
 <img src="./img/QR_YOUMONEY.png" height="100"/>
