@@ -14,7 +14,7 @@ Scrapers for addon can be taken from 👉<a href="https://github.com/Nexterr-ori
 <hr>
 <div align="center"> 
 <i><small>You can support the developer with a donation by transferring to:</br>
-🤝DonationAlerts:  </br>
+🤝DonationAlerts: https://www.donationalerts.com/r/bmsimpletv</br>
 🤝YooMoney wallet: https://yoomoney.ru/to/410012004830397</br>
 </small></i>
 <p>
