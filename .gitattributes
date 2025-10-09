@@ -1,1 +1,4 @@
-* export-ignore
+img/ export-ignore
+skin/ export-ignore
+scrapers/ export-ignore
+*.* export-ignore
