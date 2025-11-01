@@ -1,1 +1,1 @@
-Скин "Green Transparent BlackGlass" обновлен 15 января 2025г.
+Скин "Green Transparent BlackGlass" обновлен 1 ноября 2025г.
