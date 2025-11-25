@@ -1,3 +1,6 @@
+<!-- Language Selector -->
+[English](README.md) | [**Русский**](README.ru.md)
+<!-- End Language Selector -->
 ![](https://komarev.com/ghpvc/?username=BMSimple&label=PROFILE+VIEWS)
 <h3> SimpleTV Addons </h3>
 <h4>
@@ -13,10 +16,9 @@ Scrapers for addon can be taken from 👉<a href="https://github.com/Nexterr-ori
 </p>
 <hr>
 
-<details> <summary>Donate :coffee: </summary>
+<details> <summary>Donate for morning :coffee: </summary>
   <div align="center"> 
   <i><small>
-  You can support the developer with a donation by transferring to:</br>
   🤝DonationAlerts: https://www.donationalerts.com/r/bmsimpletv</br>
   </small></i>
   <p> <img src="https://static.donationalerts.ru/uploads/qr/13912861/qr_6f8027f089952f34527d17cd0f2b9587.png" height="100"/> <p>
