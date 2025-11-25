@@ -7,7 +7,7 @@
 <p>This is a repository that contains publications of addon releases for the SimpleTV IPTV player for the Windows OS.
 </br>Visit <a href="http://sergeyvs012.rf.gd/">SimpleTV website</a>.
 </p>
-<p>At the moment, 2 addons are being published here: <img src="./img/tvs_logo.png" height="16"/><b>TVSources</b> and <img src="./img/weather_logo.png" height="16"/><b>Weather</b>.</br>
+<p>At the moment, 2 addons are being published here: <img src="./img/tvs_logo.png" height="16"/><b> TVSources</b> and <img src="./img/weather_logo.png" height="16"/><b> Weather</b>.</br>
 Suggestions and errors are considered on 👉<a href="http://sergeyvs012.rf.gd/bugtracker/view_all_bug_page.php"> the bugtracker.</a>
 </p>
 </h4>
