@@ -1,5 +1,5 @@
 <!-- Language Selector -->
-[English](README.md) | [**Русский**](README.ru.md)
+[**Русский**](README.md) | [English](README.en.md)
 <!-- End Language Selector -->
 ![](https://komarev.com/ghpvc/?username=BMSimple&label=PROFILE+VIEWS)
 <h3> Аддоны для SimpleTV </h3>
