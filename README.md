@@ -14,6 +14,7 @@
 <p>
 Скраперы для аддона 'ТВ Источники' можно брать тут: 👉
   <a href="https://github.com/Nexterr-origin/simpleTV-Scripts">Nexterr repository</a>
+  или
   <a href="https://github.com/NEKTO606/simpleTV-Scripts">NEKTO606 repository</a>
 </p>
 <hr>
