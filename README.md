@@ -12,16 +12,15 @@
 </p>
 </h4>
 <p>
-Скраперы для аддона 'ТВ Источники' можно брать тут: 👉<a href="https://github.com/Nexterr-origin/simpleTV-Scripts">Nexterr</a>
+Скраперы для аддона 'ТВ Источники' можно брать тут: 👉
+  <a href="https://github.com/Nexterr-origin/simpleTV-Scripts">Nexterr repository</a>
+  <a href="https://github.com/NEKTO606/simpleTV-Scripts">NEKTO606 repository</a>
 </p>
 <hr>
 
 <details> <summary>Задонатить на утренний :coffee: </summary>
   <div align="center"> 
-  <i><small>
-
-  🤝YooMoney кошелёк: https://yoomoney.ru/to/410012004830397</br> 
-  </small></i>
+  <i><small>  🤝YooMoney кошелёк: https://yoomoney.ru/to/410012004830397</br> </small></i>
   <p> <img src="./img/QR_YOUMONEY.png" height="100"/> </p>
   </div>
 </details>
