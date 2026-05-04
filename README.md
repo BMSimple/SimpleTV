@@ -7,7 +7,7 @@
 <p>Этот репозиторий содержит публикации релизов для IPTV плеера SimpleTV на Windows.
 </br>Ссылка на багтрекер <a href="http://sergeyvs012.rf.gd/">SimpleTV </a>.
 </p>
-<p>На сегодня, здесь представлены 2 аддона: <img src="./img/tvs_logo.png" height="16"/><b> ТВ источники / TVSources</b> и <img src="./img/weather_logo.png" height="16"/><b> Погода / Weather</b>.</br>
+<p>На сегодня здесь представлены 2 аддона: <img src="./img/tvs_logo.png" height="16"/><b> ТВ источники / TVSources</b> и <img src="./img/weather_logo.png" height="16"/><b> Погода / Weather</b>.</br>
 Предложения и ошибки рассматриваются на 👉<a href="http://sergeyvs012.rf.gd/bugtracker/view_all_bug_page.php"> багтрекере.</a>
 </p>
 </h4>
@@ -19,10 +19,7 @@
 <details> <summary>Задонатить на утренний :coffee: </summary>
   <div align="center"> 
   <i><small>
-  🤝DonationAlerts: https://www.donationalerts.com/r/bmsimpletv</br>
-  </small></i>
-  <p> <img src="https://static.donationalerts.ru/uploads/qr/13912861/qr_6f8027f089952f34527d17cd0f2b9587.png" height="100"/> <p>
-  <i><small>
+
   🤝YooMoney кошелёк: https://yoomoney.ru/to/410012004830397</br> 
   </small></i>
   <p> <img src="./img/QR_YOUMONEY.png" height="100"/> </p>
