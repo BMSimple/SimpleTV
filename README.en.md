@@ -14,6 +14,7 @@ Suggestions and errors are considered on 👉<a href="http://sergeyvs012.rf.gd/b
 <p>
 Scrapers for addon can be taken from 👉
   <a href="https://github.com/Nexterr-origin/simpleTV-Scripts">Nexterr repository</a>
+  or
   <a href="https://github.com/NEKTO606/simpleTV-Scripts">NEKTO606 repository</a>
 </p>
 <hr>
