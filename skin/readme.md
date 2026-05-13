@@ -1,1 +1,1 @@
-"Green Transparent BlackGlass v.2.2.1"
+Скин для SimpleTV "Green Transparent BlackGlass v.2.3"
