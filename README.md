@@ -19,7 +19,7 @@
 </p>
 <hr>
 
-<details> <summary>Задонатить на утренний :coffee: </summary>
+<details> <summary> Отблагодарить: </summary>
   <div align="center"> 
   <i><small>  🤝YooMoney кошелёк: https://yoomoney.ru/to/410012004830397</br> </small></i>
   <p> <img src="./img/QR_YOUMONEY.png" height="100"/> </p>
