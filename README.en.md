@@ -23,6 +23,6 @@ Scrapers for addon can be taken from 👉
   <div align="center"> 
   <i><small>YooMoney wallet: https://yoomoney.ru/to/410012004830397</br>  </small></i>
   <p> <img src="./img/QR_YOUMONEY.png" height="100"/> </p>
-  or on a bank card
+  <i>or on a bank card: 2204 1201 2253 7638</i>
   </div>
 </details>
