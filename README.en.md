@@ -19,12 +19,10 @@ Scrapers for addon can be taken from 👉
 </p>
 <hr>
 
-<details> <summary>Donate for morning :coffee: </summary>
+<details> <summary>Donate🤝:</summary>
   <div align="center"> 
-
-  <i><small>
-  🤝YooMoney wallet: https://yoomoney.ru/to/410012004830397</br> 
-  </small></i>
+  <i><small>YooMoney wallet: https://yoomoney.ru/to/410012004830397</br>  </small></i>
   <p> <img src="./img/QR_YOUMONEY.png" height="100"/> </p>
+  or on a bank card
   </div>
 </details>
