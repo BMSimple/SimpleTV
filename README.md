@@ -19,9 +19,11 @@
 </p>
 <hr>
 
-<details> <summary> Отблагодарить: </summary>
+<details> <summary> 🤝Отблагодарить: </summary>
   <div align="center"> 
-  <i><small>  🤝YooMoney кошелёк: https://yoomoney.ru/to/410012004830397</br> </small></i>
+  <i><small>ЮMoney кошелёк: https://yoomoney.ru/to/410012004830397</br> </small></i>
   <p> <img src="./img/QR_YOUMONEY.png" height="100"/> </p>
+  <i> или на карту банка: 2204 1201 2253 7638</i>
   </div>
+  
 </details>
