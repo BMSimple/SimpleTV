@@ -9,6 +9,7 @@
 </p>
 <p>На сегодня здесь представлены 2 аддона: <img src="./img/tvs_logo.png" height="16"/><b> ТВ источники / TVSources</b> и <img src="./img/weather_logo.png" height="16"/><b> Погода / Weather</b>.</br>
 Предложения и ошибки рассматриваются на 👉<a href="http://sergeyvs012.rf.gd/bugtracker/view_all_bug_page.php"> багтрекере.</a>
+<p>Открыты Issues, поскольку багтрекер не доступен.</p>
 <p>Еще в папке <a href="./skin/"> skin </a> лежит Скин для SimpleTV "Green Transparent BlackGlass v.2.3"</p>
 </p>
 </h4>
