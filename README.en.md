@@ -10,6 +10,7 @@
 <p>At the moment 2 addons are being published here: <img src="./img/tvs_logo.png" height="16"/><b> TVSources</b> and <img src="./img/weather_logo.png" height="16"/><b> Weather</b>.</br>
 Suggestions and errors are considered on 👉<a href="http://sergeyvs012.rf.gd/bugtracker/view_all_bug_page.php"> the bugtracker.</a>
 </p>
+<p>Folder <a href="./skin/"> skin </a> contains SimpleTV skin "Green Transparent BlackGlass v.2.3"</p>
 </h4>
 <p>
 Scrapers for addon can be taken from 👉
